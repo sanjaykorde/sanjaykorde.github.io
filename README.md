@@ -1,33 +1,40 @@
-## Welcome to GitHub Pages
+# Portfolio-Template
+A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers etc.
 
-You can use the [editor on GitHub](https://github.com/sanjaykorde/sanjaykorde.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Highlights
+1. Setup is very easy and you get a portfolio template of your own for free.
+2. To add your details, you just need simple editing skills. No code changes required!
+3. Simple and Fast website User Interface.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Website UI Gallary
+#### About Tab
+![About Tab](https://i.postimg.cc/WpCWc7gB/1.png)
 
-### Markdown
+#### Skills Tab
+![Skills Tab](https://i.postimg.cc/HL6zZ0TP/2.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Project Tab
+![Project Tab](https://i.imgur.com/wIM0Gcr.png)
 
-```markdown
-Syntax highlighted code block
+#### Contact Tab
+![Contact Tab](https://i.postimg.cc/Y0WxCJYJ/4.png)
 
-# Header 1
-## Header 2
-### Header 3
+### Demo
+For Demo of this template you can visit http://0xprateek-portfolio-template.rf.gd
 
-- Bulleted
-- List
+### Quick Start
+If you are reading this then I will assume that you know something about code and want to make a resume website of yours then this open-source project may help you setup it to showcase all your creations without effort.
+- For adding your avatar , You have to replace images/my.jpg with your square photo [Perfect size : 160 x 160].
+- For changing background image, You need to replace images/floor.jpg with your prefered background.
+- For changing rest of the information, simply open index.html and you can easily understand everything.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Contributing
+Any and all contributions, issues, features and tips are welcome.
 
-[Link](url) and ![Image](src)
-```
+### License
+**Portfolio-Template** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanjaykorde/sanjaykorde.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For any Suggestion / Ideas ping me at [@prateekis1](https://twitter.com/prateekis1)
